@@ -1,0 +1,6 @@
+{
+  "name": "Crush Proposal",
+  "description": "An interactive, playful website for proposing to your crush",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
