@@ -2,6 +2,8 @@
 
 This is a website to propose to your crush.
 
+Link: https://crush-proposal-shadow-sama.vercel.app
+
 > CAUTION:
 > Don't complain if you get rejected!
 
